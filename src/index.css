@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Neue;
+    src: url('./assets/font/NeueMontreal-Regular.otf');
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
